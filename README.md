@@ -1,4 +1,4 @@
 # whoXSS
 ache vulnerabiliadades a XSS em sites alheios/desejado.
 
-![whossexxx](https://github.com/user-attachments/assets/fffa2e8c-b048-4809-ade0-259e686389b6)
+![whoxxxx](https://github.com/user-attachments/assets/5feb5c70-31ac-4123-881d-99de9d5f79a4)
